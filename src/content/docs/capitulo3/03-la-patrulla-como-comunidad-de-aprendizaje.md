@@ -3,8 +3,6 @@ title: La patrulla como comunidad de aprendizaje
 description: La patrulla como comunidad de aprendizaje
 ---
 
-import { CardGrid, Card } from '@astrojs/starlight/components';
-
 En el momento en que un joven o una joven asumen su compromiso ante la Ley Scout, la patrulla pasa a ser para ellos no sólo un grupo de amigos con quienes se disfruta, sino también una comunidad de aprendizaje que apoya en el desarrollo personal e invita a comprometerse con un proyecto común.
 
 ### Cambio en la conducta de "Todo" el joven y aprendizaje "Entre Todos" los jóvenes.
@@ -31,7 +29,7 @@ Los hechos e informaciones aprendidos se olvidan con facilidad si no encuentran 
 
 Dijimos que el aprendizaje en la patrulla era en parte consciente y en parte inconsciente. Esto se logra porque el aprendizaje en equipo, especialmente con relación a las actividades, sigue un ciclo que se repite constantemente, y que va pasando sucesivamente de lo más concreto a lo más abstracto y de lo más activo a lo más reflexivo.
 
-![ciclo](../../../assets/img-cycle.png)
+![ciclo](@/assets/img-cycle.png)
 
 Por medio de la reflexión colectiva, los miembros de la patrulla se transforman en observadores de sus propios actos y pensamientos. Generalmente esta fase se inicia con la evaluación de una actividad: ¿cómo funcionó? ¿qué pensábamos y sentíamos cuando lo estábamos haciendo? ¿qué circunstancias nos afectaron? ¿qué falló? ¿vemos ahora las cosas de otra manera? ¿resultó mejor de lo pensado? ¿por qué? Es una fase muy rica en opiniones divergentes, donde destacarán los miembros de la patrulla que tienen capacidad para ver las cosas desde distintos ángulos, los que siempre tratan de “encontrarle cinco patas al gato”. Hay que estimular esta manera de pensar, que aunque a veces puede ser descabellada, es un paso necesario para la creatividad y la innovación.
 

@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Guía para dirigentes",
+      title: "Guía Scout",
       customCss: [
         './src/styles/custom.css',
       ],
@@ -38,6 +38,10 @@ export default defineConfig({
         {
           label: "Capítulo 3 - La Patrulla",
           autogenerate: { directory: "capitulo3" },
+        },
+        {
+          label: "Capítulo 4 - Los Elementos del Método Scout",
+          autogenerate: { directory: "capitulo4" },
         },
       ],
     }),
