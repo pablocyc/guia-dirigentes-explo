@@ -1,36 +1,25 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: La Guía Definitiva para Dirigentes Scouts
+description: Una guía hecha por y para dirigentes.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Una guía hecha por y para dirigentes, diseñada para centralizar y organizar los recursos de los scouts, creando un espacio donde la experiencia y el conocimiento estén al alcance de todos.
   image:
     file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Icon, LinkCard, Card, CardGrid } from "@astrojs/starlight/components";
 
-## Next steps
+## Contenido
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+  <LinkCard
+    title="Libro: Guía para dirigentes de la Rama Scout"
+    href="/intro/portada"
+    description="Una adaptación digital del libro original Guía para dirigentes de la Rama Scout de las oficinas Scouts Interamericana, Europea y Mundial."
+  />
+
+  <Card title="Guía para dirigentes de la Rama Scout" icon="open-book">
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
+  </Card>
 </CardGrid>

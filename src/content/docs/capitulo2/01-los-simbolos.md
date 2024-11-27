@@ -1,0 +1,52 @@
+---
+title: Los símbolos
+description: los símbolos
+---
+
+Un símbolo es una imagen o figura que posee una característica que le permite representar una realidad o un concepto. De ahí que en todo símbolo hay un significante y un significado. El significante es la imagen sensible de algo y el significado es el concepto al cual ese significante hace referencia.
+
+### El símbolo representa y educa
+
+La balanza, por ejemplo, es considerada símbolo de la justicia, ya que en razón del equilibrio que la caracteriza representa la equidad, que es esencial a la justicia. La balanza es el significante y la justicia el significado.
+
+El lenguaje que usamos para comunicarnos es un sistema de símbolos. Las palabras representan realidades y nos permiten identificarlas, comprenderlas y relacionarlas, pero no son las realidades en sí mismas. La capacidad de operar basándonos en un sistema simbólico posibilita una construcción o representación mental de la realidad, aun cuando no estén presentes los contenidos a los cuales el significante hace referencia.
+
+La flor de lis, símbolo del Movimiento Scout, cuyo diseño varía según las asociaciones nacionales, proviene de antiguos mapas que la utilizaban en la rosa de los vientos para indicar el Norte. Según Baden-Powell representa “la buena senda que ha de seguir todo scout”.
+
+En el plano educativo, la existencia de un símbolo ayuda a tomar impulso para llegar a ser aquello con lo cual uno se identifica. Un marco simbólico estimula a los jóvenes para ir más allá de la vida cotidiana, transformando lo ordinario en extraordinario, lo imposible en posible, lo imperceptible en algo que puede sentirse intuitivamente, poniendo ante los ojos, el pensamiento y el corazón aquellas realidades que habitualmente no advertimos.
+
+Para que esa transformación se produzca son necesarias algunas condiciones:
+- Debe haber correspondencia entre significante y significado, esto es, una “sintonía” exenta de cualquier ambigüedad. Si el símbolo se torna equívoco, se produce una brecha y se pierde el nexo entre significante y significado. Por ejemplo, ciertas aparentes “tradiciones” que algunas Unidades Scouts han añadido al símbolo originario de manera imperceptible o descuidada -como la tendencia “indianista” o la inclinación a utilizar imágenes de la caballería medieval- conspiran contra la identidad del símbolo, que el fundador asignó con toda nitidez a la exploración.
+- El significante debe guardar relación con las necesidades psicológicas de la edad. Una niña jugando con muñecas pudiera ser un símbolo positivo de identidad, pues permitiría identificarse con un determinado modelo de vida y un potencial papel de madre. Pero una mujer adulta jugando con muñecas sería un signo de identificación regresiva, ya que este juego no guarda relación con las necesidades de su etapa de desarrollo. Por el mismo motivo, el símbolo de la historia fantástica del pueblo libre de los lobos no puede prolongarse más allá de los 10 u 11 años, ya que a esa altura los niños cambian su forma de pensar.
+- Para evocar y aproximar al significado, el significante necesita estar vivo y latente. Durante siete siglos, la imagen de Santiago de Compostela, cabalgando al viento en su caballo blanco, significó para los españoles la lucha por recuperar su territorio invadido. En algunas Unidades Scouts, producto de la rutina o de la falta de importancia atribuida por los líderes, el símbolo tiende a perder nitidez y fuerza. Como deslavada referencia, hecha ocasionalmente en celebraciones formales, el símbolo no posee el vigor suficiente para motivar el comportamiento en los jóvenes.
+
+### El marco simbólico de los scouts: Explorar nuevos territorios con un grupo de amigos
+
+El marco simbólico que el método scout propone a los jóvenes de 11 a 15 años -explorar nuevos territorios con un grupo de amigos- guarda una estrecha correspondencia con las necesidades que ellos experimentan y expresan a través de sus actividades espontáneas.
+
+Se apoya en tres dinamismos esenciales, propios de esta edad:
+- El gusto por explorar
+- El interés por la apropiación de un territorio
+- La pertenencia a un grupo de amigos
+
+Estos centros de interés se expresan también en otras edades, pero en esta etapa de la adolescencia ocupan un lugar predominante.
+
+### El papel del marco simbólico
+
+El marco simbólico se presenta como un ambiente de referencia que refuerza la vida en común en la patrulla y en la Unidad, contribuyendo a dar coherencia a todo lo que se hace.
+
+Ofrece ventajas educativas desde diferentes aspectos:
+- Incentiva la imaginación y desarrolla la sensibilidad:
+	- Uno de los valores del símbolo es que da a las cosas un sentido distinto de aquel que aparente o habitualmente tienen. Los testimonios de exploradores, descubridores y científicos distan en el espacio y el tiempo y tienen pocas posibilidades de ser replicados. Sin embargo, abren el horizonte y muestran que la propia realización personal es posible. El significante de esos testimonios es la posibilidad de construir significados en la propia realidad que se vive. Así, la realidad adquiere una dimensión que sin la ayuda del símbolo quizás no tendría, o no se dispondría de la sensibilidad para verla.
+- Refuerza la pertenencia a una comunidad que se encamina hacia un mismo propósito:
+	- El propósito del Movimiento Scout es lograr que los jóvenes se conviertan en personas autónomas, solidarias, responsables y comprometidas, que participan en la construcción de un mundo mejor. Este propósito está implícito y, lo más probable, no forma parte de las inquietudes de una joven o de un joven cuando deciden ingresar al Movimiento, pero se hace explícito a través del símbolo.
+	- Para un joven o una joven que participa en el Movimiento Scout, la exploración de nuevos territorios cumple el papel de significante respecto de la búsqueda de nuevas dimensiones para su personalidad. Y el grupo de amigos cumple igual rol respecto del valor que tienen los pares en esta edad y, en consecuencia, del significado de su patrulla scout.
+- Permite a los dirigentes presentar los valores scouts de manera atractiva y ayuda a los jóvenes a identificarse con esos valores:
+	- Los valores para ser vividos requieren el testimonio de otros que han sido capaces de encarnarlos en su vida. No hay nada más poderoso que una persona viviendo de acuerdo a lo que piensa. Esos son los verdaderos héroes. Cuando no hay héroes, a los jóvenes no les queda otra cosa que conformarse con los ídolos. Del héroe se toma inspiración, del ídolo se imita su aspecto. El héroe crea significados permanentes, el ídolo promueve imitadores. El héroe hace libres, el ídolo crea dependencia. El héroe nunca falla, a menos que se lo idolatre, esto es, que se lo convierta en ídolo. El ídolo, tarde o temprano, decepciona.
+	- En la educación scout, el testimonio de personas que vivieron de acuerdo a sus principios, presenta y refuerza los valores contenidos en la Ley y entusiasma por hacer otro tanto en la propia vida.
+- Da unidad a las actividades que se hacen:
+	- En un sistema de actividades en que antes de confeccionar un programa se le pregunta al joven por lo que quiere hacer, lo frecuente será que ese programa esté conformado por actividades de muy distinta naturaleza. La presencia de un significante común -explorar nuevos territorios con un grupo de amigos- conecta y da un sentido único a todo lo que se hace.
+- Motiva y da importancia al logro de objetivos personales:
+	- Veremos más adelante que la acumulación paulatina y secuenciada de experiencias personales producidas por las actividades, conduce al logro de los objetivos propuestos por el método, los cuales los jóvenes personalizan, adaptándolos a sus necesidades y aspiraciones.
+	- Este proceso podría ser árido y “escolar” si no se insertara en una aventura vivida al modo de un juego. El marco simbólico aporta ese sentido de aventura, contagia entusiasmo y llena de emociones la vida de una Unidad.
+	- Sin embargo, no se trata de un juego trivial, de una entretención más o menos rica en sensaciones. Como el marco simbólico encarna el tipo de hombre y mujer que se aspira a ser, está directamente relacionado con los testimonios de los héroes que se presentan, con los valores de la Ley Scout y, en definitiva, con el comportamiento, a través del cual cada joven manifiesta que ha logrado los objetivos propuestos.

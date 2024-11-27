@@ -1,27 +1,45 @@
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
-		}),
-	],
+  integrations: [
+    starlight({
+      title: "Guía para dirigentes",
+      customCss: [
+        './src/styles/custom.css',
+      ],
+      defaultLocale: 'es',
+      locales: {
+        root: {
+          label: 'Spanish',
+          lang: 'es',
+        }
+      },
+      social: {
+        github: "https://github.com/withastro/starlight",
+      },
+      sidebar: [
+        {
+          label: "Acerca de este libro",
+          items: [
+            { label: "Portada", slug: "intro/portada" },
+            { label: "Presentación", slug: "intro/presentation" },
+          ],
+        },
+        {
+          label: "Capítulo 1 - Los Jóvenes de 11 a 15 años",
+          autogenerate: { directory: "capitulo1" },
+        },
+        {
+          label: "Capítulo 2 - El Marco Simbólico", 
+          autogenerate: { directory: "capitulo2" },
+        },
+        {
+          label: "Capítulo 3 - La Patrulla",
+          autogenerate: { directory: "capitulo3" },
+        },
+      ],
+    }),
+  ],
 });
