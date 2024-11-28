@@ -17,7 +17,7 @@ export default defineConfig({
         }
       },
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/pablocyc/guia-dirigentes-explo",
       },
       sidebar: [
         {
@@ -42,6 +42,10 @@ export default defineConfig({
         {
           label: "Capítulo 4 - Los Elementos del Método Scout",
           autogenerate: { directory: "capitulo4" },
+        },
+        {
+          label: "Capítulo 5 - Unidad Scout",
+          autogenerate: { directory: "capitulo5" },
         },
       ],
     }),
