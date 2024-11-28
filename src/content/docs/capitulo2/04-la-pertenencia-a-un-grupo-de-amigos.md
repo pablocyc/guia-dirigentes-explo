@@ -1,5 +1,5 @@
 ---
-title: La pertenencia a un grupo de amigos
+title: La Pertenencia a un Grupo de Amigos
 description: La pertenencia a un grupo de amigos
 ---
 

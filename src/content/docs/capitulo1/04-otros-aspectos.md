@@ -1,5 +1,5 @@
 ---
-title: Otros aspectos
+title: Otros Aspectos
 description: Otros aspectos
 ---
 

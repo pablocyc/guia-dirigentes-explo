@@ -1,5 +1,5 @@
 ---
-title: Un perfil a grandes trazos según los distintos aspectos de la personalidad
+title: Un Perfil a Grandes Trazos Según los Distintos Aspectos de la Personalidad
 description: Un perfil a grandes trazos según los distintos aspectos de la personalidad
 ---
 

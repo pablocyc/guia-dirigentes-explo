@@ -1,5 +1,5 @@
 ---
-title: Las principales tareas de desarrollo entre 11 y 15 años
+title: Las Principales Tareas de Desarrollo entre 11 y 15 años
 description: Las principales tareas de desarrollo entre 11 y 15 años
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: La aplicación del marco simbólico
+title: La Aplicación del Marco Simbólico
 description: La aplicación del marco simbólico
 ---
 

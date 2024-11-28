@@ -1,5 +1,5 @@
 ---
-title: La patrulla como comunidad de aprendizaje
+title: La Patrulla como Comunidad de Aprendizaje
 description: La patrulla como comunidad de aprendizaje
 ---
 

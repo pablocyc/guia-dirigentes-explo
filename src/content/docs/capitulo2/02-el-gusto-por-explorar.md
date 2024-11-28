@@ -1,5 +1,5 @@
 ---
-title: El gusto por explorar
+title: El Gusto por Explorar
 description: El gusto por explorar
 ---
 

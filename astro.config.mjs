@@ -22,10 +22,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "Acerca de este libro",
-          items: [
-            { label: "Portada", slug: "intro/portada" },
-            { label: "Presentación", slug: "intro/presentation" },
-          ],
+          autogenerate: { directory: "intro" },
         },
         {
           label: "Capítulo 1 - Los Jóvenes de 11 a 15 años",

@@ -1,5 +1,5 @@
 ---
-title: El interés por la aprobación de un territorio
+title: El Interés por la Aprobación de un Territorio
 description: El interés por la aprobación de un territorio
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: La vida de grupo
+title: La Vida de Grupo
 description: La vida de grupo
 ---
 
