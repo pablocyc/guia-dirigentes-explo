@@ -44,6 +44,10 @@ export default defineConfig({
           label: "Capítulo 5 - Unidad Scout",
           autogenerate: { directory: "capitulo5" },
         },
+        {
+          label: "Capítulo 6 - Ley y Promesa",
+          autogenerate: { directory: "capitulo6" },
+        },
       ],
     }),
   ],
