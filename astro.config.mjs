@@ -48,6 +48,10 @@ export default defineConfig({
           label: "Capítulo 6 - Ley y Promesa",
           autogenerate: { directory: "capitulo6" },
         },
+        {
+          label: "Capítulo 7 - El Papel de los Dirigentes Scouts",
+          autogenerate: { directory: "capitulo7" },
+        },
       ],
     }),
   ],
