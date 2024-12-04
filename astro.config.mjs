@@ -52,6 +52,10 @@ export default defineConfig({
           label: "Capítulo 7 - El Papel de los Dirigentes Scouts",
           autogenerate: { directory: "capitulo7" },
         },
+        {
+          label: "Capítulo 8 - Las Áreas de Crecimiento",
+          autogenerate: { directory: "capitulo8" },
+        },
       ],
     }),
   ],
