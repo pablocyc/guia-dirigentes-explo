@@ -56,6 +56,10 @@ export default defineConfig({
           label: "Capítulo 8 - Las Áreas de Crecimiento",
           autogenerate: { directory: "capitulo8" },
         },
+        {
+          label: "Capítulo 9 - Los Objetivos Educativos",
+          autogenerate: { directory: "capitulo9" },
+        },
       ],
     }),
   ],

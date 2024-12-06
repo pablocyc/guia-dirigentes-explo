@@ -40,7 +40,7 @@ La consideración de estas diferentes áreas de crecimiento es una perspectiva e
 
 Sin embargo, no se debe olvidar que nuestros actos entrelazan habitualmente casi todas las dimensiones de nuestra personalidad, y en nuestra vida ellas se entretejen de tal manera, que es difícil distinguir la frontera entre una y otra, ya que se influencian y determinan mutuamente hasta conformar nuestro particular modo de ser.
 
-**image**
+![areas de crecimiento](@/assets/img-areas-de-crecimiento.png)
 
 ### El marco simbólico refuerza el desarrollo en las distintas áreas de crecimiento
 
