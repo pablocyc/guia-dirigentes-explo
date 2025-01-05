@@ -60,6 +60,18 @@ export default defineConfig({
           label: "Capítulo 9 - Los Objetivos Educativos",
           autogenerate: { directory: "capitulo9" },
         },
+        {
+          label: "Capítulo 10 - Las Activiadades Educativas",
+          autogenerate: { directory: "capitulo10" },
+        },
+        {
+          label: "Capítulo 11 - Evaluación de la Progresión Personal",
+          autogenerate: { directory: "capitulo11" },
+        },
+        {
+          label: "Capítulo 12 - El Ciclo de Programa",
+          autogenerate: { directory: "capitulo12" },
+        },
       ],
     }),
   ],
